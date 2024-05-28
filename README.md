@@ -59,7 +59,7 @@ O software pode ser classificado de acordo com a sua forma de cópia e distribui
 
 #### O processo de desenvolvimento de software
 
-![processo de desenvolvimento de software](/ENGENHARIA DE SOFTWARE - SINTASE.jpg)
+<img src="ENGENHARIA DE SOFTWARE - SINTASE.jpg">
 
 - **Concepção:** fase onde o sistema é concebido e avaliada a sua viabilidade (técnica, econômica, tempo). Caso viável o desenvolvimento segue nas fases seguintes e caso contrário é interrompido.
 - **Requisitos:** Em muitos modelos de processos de desenvolvimento, a fase de requisitos pode estar junta com a de Analise, mas a finalidade é identificar as necessidades dos usuários para definir os requisitos do sistema.
